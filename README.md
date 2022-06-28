@@ -41,3 +41,6 @@ To create a new trip you need:
 We now propose to conduct a statistical study that may be useful for the agency's be useful to the agency's leaders in the short and medium term. This study consists of finding and displaying the results of a number of queries that involve existing data. To manage the age ranges of the travelers in this part, we create a new AGES table that calculates these values in terms of years using the date of birth matrix and the actual system's date as shown below:
 ![Capture6](https://user-images.githubusercontent.com/59179174/176247434-9090c7a7-39c1-4423-af47-324cd29e24c7.PNG)
 ![Capture8](https://user-images.githubusercontent.com/59179174/176247443-40c8086c-5446-4362-9ed7-41313db869f2.PNG)
+
+For more details, see this PDF that explains what must the application offer as services :</br>
+[Enonce-projet-AP-ASD-2018-2019.pdf](https://github.com/Trabelsi-Development/Travel-Management/files/9003492/Enonce-projet-AP-ASD-2018-2019.pdf)
